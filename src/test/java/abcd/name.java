@@ -10,7 +10,7 @@ private void sysout2() {
 
 }
 	private void sysout3() {
-	System.out.println("TEST 3");
+	System.out.println("TEST 4");
 
 }
 	private void sysout4() {
