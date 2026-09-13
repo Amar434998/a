@@ -9,4 +9,8 @@ private void sysout2() {
 	System.out.println("TEST 2");
 
 }
+	private void sysout2() {
+	System.out.println("TEST 3");
+
+}
 }
