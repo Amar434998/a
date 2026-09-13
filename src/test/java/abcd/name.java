@@ -9,7 +9,7 @@ private void sysout2() {
 	System.out.println("TEST 2");
 
 }
-	private void sysout2() {
+	private void sysout3() {
 	System.out.println("TEST 3");
 
 }
