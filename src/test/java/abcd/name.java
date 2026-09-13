@@ -13,4 +13,8 @@ private void sysout2() {
 	System.out.println("TEST 3");
 
 }
+	private void sysout4() {
+		System.out.println("TEST 4444444");
+
+	}
 }
